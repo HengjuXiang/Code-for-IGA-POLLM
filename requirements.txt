@@ -1,0 +1,8 @@
+requests
+pdfplumber
+pandas
+tqdm
+python-dotenv
+matplotlib
+numpy
+openpyxl
